@@ -11,7 +11,7 @@ public class LoanAssistant extends JFrame {
 	
 	JLabel LoanBalance = new JLabel ("Loan Balance");
 	JLabel InterestRate = new JLabel ("Interest Rate");
-	JLabel NumberOfPayment = new JLabel ("Numbers Of Payments");
+	JLabel NumberOfPayment = new JLabel ("Numbers of Payments");
 	JLabel MonthlyPayment = new JLabel ("Monthly Payments");
 	JLabel analysisLabel = new JLabel("Loan Analysis");
 	JTextArea analysisTextArea = new JTextArea();
